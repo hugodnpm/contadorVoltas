@@ -1,0 +1,31 @@
+@import url('//fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,200;1,300&display=swap');
+
+* {
+    font-family: 'Raleway-300', sans-serif;
+    text-align: center
+}
+
+.voltas {
+    font-size: 64px;
+    font-weight: bold;
+}
+.voltas span {
+    font-size: 288px;
+}
+.tempo span {
+    font-size: 64px;
+    font-weight: bold;
+}
+button {
+    background-color: '#f9f9f9';
+    font-size: 18px;
+    border: 1px, solid black;
+    padding: 22px;
+    margin: 10px
+}
+.bigger {
+    font-size: 100px;
+    font-weight: bold;
+    margin: 10px;
+    line-height: 50px;
+}
